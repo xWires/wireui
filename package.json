@@ -3,6 +3,10 @@
   "type": "module",
   "version": "1.0.0",
   "main": "./nuxt.config.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xWires/wireui"
+  },
   "scripts": {
     "dev": "nuxi dev .playground",
     "dev:prepare": "nuxt prepare .playground",
